@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/siddharth018/laravel8multipleimageupload/master/images.png" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8ajaximage/master/imageAjax.png" width="100%">
 
 
 ## About
