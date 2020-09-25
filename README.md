@@ -1,6 +1,9 @@
 
 <img src="https://raw.githubusercontent.com/siddharth018/laravel8ajaximage/master/imageAjax.png" width="100%">
 
+## Blog: 
+
+http://realprogrammer.in/laravel-8-ajax-image-upload
 
 ## About
 First Step: download in your system.
